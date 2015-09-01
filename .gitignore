@@ -1,0 +1,17 @@
+.project
+bin
+gen
+out
+.classpath
+.settings
+project.properties
+*.log
+*.eml
+
+src/main/META-INF/
+src/test/java/META-INF/
+
+.idea
+
+*.iml
+/target/
